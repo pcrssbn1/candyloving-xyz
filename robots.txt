@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://candyloving.xyz/sitemap.xml
